@@ -1,3 +1,7 @@
+## Prérequis
+Pour lancer ce projet vous devez d'abord installer docker sur votre machine.
+Allez sur ce [lien](https://docs.docker.com/get-docker/) et telechargez puis installez la version docker qui vous concerne.
+
 ## Présentation
 
 Ces contenaires ont été initialement issus de https://github.com/liliasfaxi/hadoop-cluster-docker
