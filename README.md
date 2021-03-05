@@ -4,7 +4,7 @@ Allez sur ce [lien](https://docs.docker.com/get-docker/) et telechargez puis ins
 
 ## Présentation
 
-Ces contenaires ont été initialement issus de https://github.com/liliasfaxi/hadoop-cluster-docker
+Ces conteneurs ont été initialement issus de https://github.com/liliasfaxi/hadoop-cluster-docker
 
 J'ai créé un nouveau conteneur qui lance le hadoop automatiquement au demarage du conteneur.
 Vous trouverez ce conteneur dans le docker hub `genieouz/hadoop-setup`
